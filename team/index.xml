@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Skyports Systems</title>
-    <link>http://localhost:55926/team/</link>
+    <link>http://localhost:1313/team/</link>
     <description>Recent content in Teams on Skyports Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://localhost:55926/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stefan Dyckerhoff</title>
-      <link>http://localhost:55926/team/stefan-dyckerhoff/</link>
+      <link>http://localhost:1313/team/stefan-dyckerhoff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:55926/team/stefan-dyckerhoff/</guid>
+      <guid>http://localhost:1313/team/stefan-dyckerhoff/</guid>
       <description>
 
 &lt;h2 id=&#34;stefan-dyckerhoff:edac97d231ec5ebbd06e89046b3932a0&#34;&gt;Stefan Dyckerhoff&lt;/h2&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Michael Beesley</title>
-      <link>http://localhost:55926/team/michaeljbeesley/</link>
+      <link>http://localhost:1313/team/michaeljbeesley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:55926/team/michaeljbeesley/</guid>
+      <guid>http://localhost:1313/team/michaeljbeesley/</guid>
       <description>
 
 &lt;h2 id=&#34;michael-beesley:4b11126e03a90f2a26e5ec5da9bc59f9&#34;&gt;Michael Beesley&lt;/h2&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>Will Eatherton</title>
-      <link>http://localhost:55926/team/will/</link>
+      <link>http://localhost:1313/team/will/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:55926/team/will/</guid>
+      <guid>http://localhost:1313/team/will/</guid>
       <description>
 
 &lt;h2 id=&#34;will-eatherton:ccbb3928bd1bb9eb3799e2f1357fdca2&#34;&gt;Will Eatherton&lt;/h2&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Rob Rodgers</title>
-      <link>http://localhost:55926/team/rod/</link>
+      <link>http://localhost:1313/team/rod/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:55926/team/rod/</guid>
+      <guid>http://localhost:1313/team/rod/</guid>
       <description>
 
 &lt;h2 id=&#34;rob-rodgers:9cf219bc7dd3b81d46fa8f2c9d811914&#34;&gt;Rob Rodgers&lt;/h2&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>Douglas Dogray</title>
-      <link>http://localhost:55926/team/doug/</link>
+      <link>http://localhost:1313/team/doug/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:55926/team/doug/</guid>
+      <guid>http://localhost:1313/team/doug/</guid>
       <description>
 
 &lt;h2 id=&#34;michael-beesley:3226880de69f2c33358d55706259c1c4&#34;&gt;Michael Beesley&lt;/h2&gt;
